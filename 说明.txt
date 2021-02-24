@@ -1,0 +1,8 @@
+1、把curl4delphi解压，并加入到DELPHI的路径中。
+2、把dll复制到EXE的目录。
+3、建立与EXE同名的INI文件，并写入apns的配置。
+4、把pas文件加入工程，调用方法就行了。
+5、apns的证书如何创建，参考：https://www.jianshu.com/p/94cec7d435e8
+
+
+作者：386809985(凌风)
